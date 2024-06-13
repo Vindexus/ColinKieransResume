@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+	margin: 1em;
+	border: 1px solid black;
+}
+
+h1, h2, h3 {
+	@apply font-bold;
+}
+
+h1 {
+	color: #028090;
+}
+
+h2 {
+	@apply text-2xl;
+	color: #05668D
+}
+
+h3 {
+	@apply text-lg text-gray-800;
+}
+
+p {
+	@apply mb-4;
+}
+@media print {
+	div#root {
+		margin: 0;
+		border: none;
+	}
+}
+
+@page {
+	size: letter;
+}

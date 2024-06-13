@@ -5,7 +5,7 @@ import Project from "./components/Project.tsx";
 function App() {
   return (
     <div id={'resume'} className={'mx-auto print:h-screen grid grid-cols-[260px,1fr]'}>
-			<div className={'p-5 bg-slate-100 flex flex-col justify-between'}>
+			<div className={'p-5 bg-slate-100 flex flex-col justify-start'}>
 				<div>
 					<h1 className={'text-emerald-500 text-3xl'}>Colin Kierans</h1>
 					<div className={'flex flex-col'}>

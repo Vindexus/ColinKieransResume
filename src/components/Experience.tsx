@@ -5,7 +5,7 @@ type Props = {
 }
 
 export default function ExperienceC ({xp} : Props) {
-	return <section className={'mb-6 pt-6 last:mb-0 first:pt-1'}>
+	return <section className={'mb-5 pt-3 last:mb-0 first:pt-1'}>
 		<div className={'flex w-full justify-between items-center'}>
 			<h3>{xp.title}</h3>
 			<div className={'text-slate-400'}>

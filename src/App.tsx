@@ -15,7 +15,7 @@ function App() {
 						<a href={'mailto:colinkierans@gmail.com'} className={'text-emerald-600'}>colinkierans@gmail.com</a>
 					</div>
 					<div className={'text-sm mt-4 text-justify'}>
-						<p>I'm a full stack developer from Canada who loves mentoring, learning new skills, and robust test suites. I have been working in web development since I graduated from Thompson Rivers University in 2007.</p>
+						<p>I'm a full stack developer from Canada who loves mentoring, learning new skills, and writing automated tests. I have been working in web development since I graduated from Thompson Rivers University in 2007.</p>
 						<p>I love all types of games. If I'm not playing them, I'm probably creating my own or building a project based around them.</p>
 					</div>
 				</div>
